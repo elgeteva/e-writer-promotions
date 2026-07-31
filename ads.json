@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-07-31T12:00:00Z",
+  "refreshIntervalMinutes": 360,
+
+  "placements": {
+    "top_banner": {
+      "enabled": true,
+      "campaignId": "demo-top-001",
+      "kind": "own",
+      "priority": 100,
+
+      "label": "Новость автора",
+      "title": "Новая книга уже на подходе",
+      "description": "Узнайте больше о книгах автора e-writer.",
+      "imageUrl": "",
+      "buttonText": "Подробнее",
+      "buttonUrl": "https://example.com",
+
+      "advertiserName": "",
+      "erid": "",
+
+      "startsAt": "2026-07-31T00:00:00Z",
+      "endsAt": "2026-12-31T23:59:59Z",
+      "dismissible": true
+    },
+
+    "library_banner": {
+      "enabled": false,
+      "campaignId": "demo-library-001",
+      "kind": "ad",
+      "priority": 90,
+
+      "label": "Реклама",
+      "title": "Название рекламируемой книги",
+      "description": "Краткое описание рекламного предложения.",
+      "imageUrl": "",
+      "buttonText": "Узнать больше",
+      "buttonUrl": "https://example.com",
+
+      "advertiserName": "Название рекламодателя",
+      "erid": "",
+
+      "startsAt": "2026-07-31T00:00:00Z",
+      "endsAt": "2026-08-31T23:59:59Z",
+      "dismissible": false
+    },
+
+    "empty_state_banner": {
+      "enabled": false,
+      "campaignId": "demo-empty-001",
+      "kind": "ad",
+      "priority": 80,
+
+      "label": "Партнёрский материал",
+      "title": "Создаёте персонажа?",
+      "description": "Здесь может находиться тематическое предложение.",
+      "imageUrl": "",
+      "buttonText": "Подробнее",
+      "buttonUrl": "https://example.com",
+
+      "advertiserName": "Название рекламодателя",
+      "erid": "",
+
+      "startsAt": "2026-07-31T00:00:00Z",
+      "endsAt": "2026-08-31T23:59:59Z",
+      "dismissible": true
+    },
+
+    "export_success_banner": {
+      "enabled": false,
+      "campaignId": "demo-export-001",
+      "kind": "ad",
+      "priority": 80,
+
+      "label": "Реклама",
+      "title": "Рукопись готова к следующему шагу",
+      "description": "Здесь может находиться реклама редактора, типографии или издательства.",
+      "imageUrl": "",
+      "buttonText": "Подробнее",
+      "buttonUrl": "https://example.com",
+
+      "advertiserName": "Название рекламодателя",
+      "erid": "",
+
+      "startsAt": "2026-07-31T00:00:00Z",
+      "endsAt": "2026-08-31T23:59:59Z",
+      "dismissible": false
+    },
+
+    "sidebar_author": {
+      "enabled": true,
+      "campaignId": "own-sidebar-001",
+      "kind": "own",
+      "priority": 50,
+
+      "label": "Книги автора",
+      "title": "Луна",
+      "description": "Роман о будущем, памяти и выборе.",
+      "imageUrl": "",
+      "buttonText": "Подробнее о книге",
+      "buttonUrl": "https://example.com",
+
+      "advertiserName": "",
+      "erid": "",
+
+      "startsAt": "2026-07-31T00:00:00Z",
+      "endsAt": "2027-12-31T23:59:59Z",
+      "dismissible": false
+    },
+
+    "about_author": {
+      "enabled": true,
+      "campaignId": "own-about-001",
+      "kind": "own",
+      "priority": 40,
+
+      "label": "Автор e-writer",
+      "title": "Книги и ресурсы elgeteva",
+      "description": "Поддержите развитие бесплатного приложения.",
+      "imageUrl": "",
+      "buttonText": "Поддержать автора",
+      "buttonUrl": "https://example.com",
+
+      "advertiserName": "",
+      "erid": "",
+
+      "startsAt": "2026-07-31T00:00:00Z",
+      "endsAt": "2027-12-31T23:59:59Z",
+      "dismissible": false
+    }
+  }
+}
