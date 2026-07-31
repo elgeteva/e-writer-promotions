@@ -26,7 +26,7 @@
     },
 
     "library_banner": {
-      "enabled": false,
+      "enabled": true,
       "campaignId": "demo-library-001",
       "kind": "ad",
       "priority": 90,
@@ -47,7 +47,7 @@
     },
 
     "empty_state_banner": {
-      "enabled": false,
+      "enabled": true,
       "campaignId": "demo-empty-001",
       "kind": "ad",
       "priority": 80,
@@ -122,8 +122,8 @@
       "buttonText": "Поддержать автора",
       "buttonUrl": "https://boosty.to/elgeteva/donate",
 
-      "advertiserName": "",
-      "erid": "",
+      "advertiserName": "kjk",
+      "erid": "1235790986543",
 
       "startsAt": "2026-07-31T00:00:00Z",
       "endsAt": "2027-12-31T23:59:59Z",
