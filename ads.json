@@ -43,7 +43,7 @@
 
       "startsAt": "2026-07-31T00:00:00Z",
       "endsAt": "2026-08-31T23:59:59Z",
-      "dismissible": false
+      "dismissible": true
     },
 
     "empty_state_banner": {
@@ -68,7 +68,7 @@
     },
 
     "export_success_banner": {
-      "enabled": false,
+      "enabled": true,
       "campaignId": "demo-export-001",
       "kind": "ad",
       "priority": 80,
