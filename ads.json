@@ -13,9 +13,9 @@
       "label": "Новость автора",
       "title": "Новая книга уже на подходе",
       "description": "Узнайте больше о книгах автора e-writer.",
-      "imageUrl": "",
-      "buttonText": "Подробнее",
-      "buttonUrl": "https://example.com",
+      "imageUrl": "https://elgeteva.github.io/e-writer-promotions/assets/cover%20of%20Pargelius.png",
+      "buttonText": "Читать",
+      "buttonUrl": "https://ficbook.net/readfic/13022821",
 
       "advertiserName": "",
       "erid": "",
@@ -36,7 +36,7 @@
       "description": "Краткое описание рекламного предложения.",
       "imageUrl": "",
       "buttonText": "Узнать больше",
-      "buttonUrl": "https://example.com",
+      "buttonUrl": "https://elgeteva.github.io/e-writer-promotions/assets/cover%20of%20Pargelius.png",
 
       "advertiserName": "Название рекламодателя",
       "erid": "",
@@ -53,11 +53,11 @@
       "priority": 80,
 
       "label": "Партнёрский материал",
-      "title": "Создаёте персонажа?",
+      "title": "хотите прорекламировать что-то?",
       "description": "Здесь может находиться тематическое предложение.",
       "imageUrl": "",
       "buttonText": "Подробнее",
-      "buttonUrl": "https://example.com",
+      "buttonUrl": "https://t.me/elgeteva_bot",
 
       "advertiserName": "Название рекламодателя",
       "erid": "",
@@ -77,8 +77,8 @@
       "title": "Рукопись готова к следующему шагу",
       "description": "Здесь может находиться реклама редактора, типографии или издательства.",
       "imageUrl": "",
-      "buttonText": "Подробнее",
-      "buttonUrl": "https://example.com",
+      "buttonText": "Заказать рекламу",
+      "buttonUrl": "https://t.me/elgeteva_bot",
 
       "advertiserName": "Название рекламодателя",
       "erid": "",
@@ -96,10 +96,10 @@
 
       "label": "Книги автора",
       "title": "Луна",
-      "description": "Роман о будущем, памяти и выборе.",
+      "description": "Роман о прошлом, памяти и выборе.",
       "imageUrl": "",
       "buttonText": "Подробнее о книге",
-      "buttonUrl": "https://example.com",
+      "buttonUrl": "https://ficbook.net/readfic/0199351a-fcce-72af-9904-55027748d59b",
 
       "advertiserName": "",
       "erid": "",
@@ -120,7 +120,7 @@
       "description": "Поддержите развитие бесплатного приложения.",
       "imageUrl": "",
       "buttonText": "Поддержать автора",
-      "buttonUrl": "https://example.com",
+      "buttonUrl": "https://boosty.to/elgeteva/donate",
 
       "advertiserName": "",
       "erid": "",
