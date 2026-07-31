@@ -11,11 +11,11 @@
       "priority": 100,
 
       "label": "Новость автора",
-      "title": "Новая книга уже на подходе",
-      "description": "Узнайте больше о книгах автора e-writer.",
+      "title": "Здесь может быть ваша реклама",
+      "description": "Подробности о размещении",
       "imageUrl": "https://elgeteva.github.io/e-writer-promotions/assets/cover%20of%20Pargelius.png",
-      "buttonText": "Читать",
-      "buttonUrl": "https://ficbook.net/readfic/13022821",
+      "buttonText": "Связаться",
+      "buttonUrl": "https://t.me/elgeteva",
 
       "advertiserName": "",
       "erid": "",
