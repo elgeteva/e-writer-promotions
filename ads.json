@@ -13,7 +13,7 @@
       "label": "Новость автора",
       "title": "Здесь может быть ваша реклама",
       "description": "Подробности о размещении",
-      "imageUrl": "https://elgeteva.github.io/e-writer-promotions/assets/cover%20of%20Pargelius.png",
+      "imageUrl": "https://elgeteva.github.io/e-writer-promotions/assets/логотип elgeteva.png",
       "buttonText": "Связаться",
       "buttonUrl": "https://t.me/elgeteva",
 
@@ -34,12 +34,12 @@
       "label": "Реклама",
       "title": "Название рекламируемой книги",
       "description": "Краткое описание рекламного предложения.",
-      "imageUrl": "",
+      "imageUrl": "https://elgeteva.github.io/e-writer-promotions/assets/логотип elgeteva.png",
       "buttonText": "Узнать больше",
-      "buttonUrl": "https://elgeteva.github.io/e-writer-promotions/assets/cover%20of%20Pargelius.png",
+      "buttonUrl": "https://t.me/elgeteva",
 
       "advertiserName": "Название рекламодателя",
-      "erid": "",
+      "erid": "123578890",
 
       "startsAt": "2026-07-31T00:00:00Z",
       "endsAt": "2026-08-31T23:59:59Z",
@@ -55,7 +55,7 @@
       "label": "Партнёрский материал",
       "title": "хотите прорекламировать что-то?",
       "description": "Здесь может находиться тематическое предложение.",
-      "imageUrl": "",
+      "imageUrl": "https://elgeteva.github.io/e-writer-promotions/assets/логотип elgeteva.png",
       "buttonText": "Подробнее",
       "buttonUrl": "https://t.me/elgeteva_bot",
 
@@ -76,7 +76,7 @@
       "label": "Реклама",
       "title": "Рукопись готова к следующему шагу",
       "description": "Здесь может находиться реклама редактора, типографии или издательства.",
-      "imageUrl": "",
+      "imageUrl": "https://elgeteva.github.io/e-writer-promotions/assets/логотип elgeteva.png",
       "buttonText": "Заказать рекламу",
       "buttonUrl": "https://t.me/elgeteva_bot",
 
@@ -118,7 +118,7 @@
       "label": "Автор e-writer",
       "title": "Книги и ресурсы elgeteva",
       "description": "Поддержите развитие бесплатного приложения.",
-      "imageUrl": "https://elgeteva.github.io/e-writer-promotions/assets/cover%20of%20Pargelius.png",
+      "imageUrl": "https://elgeteva.github.io/e-writer-promotions/assets/логотип elgeteva.png",
       "buttonText": "Поддержать автора",
       "buttonUrl": "https://boosty.to/elgeteva/donate",
 
